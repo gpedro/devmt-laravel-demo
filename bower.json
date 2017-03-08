@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "devmt-laravel-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
